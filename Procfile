@@ -1,1 +1,1 @@
-web: gunicorn Melanoma.wsgi 
+web gunicorn Melanoma.wsgi 
