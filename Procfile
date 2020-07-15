@@ -1,1 +1,1 @@
-web: waitress-serve --listen=*:8000 Melanoma.wsgi:application --log-file - --log-level debug
+web:waitress-serve --listen=*:8000 Melanoma.wsgi:application 
