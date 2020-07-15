@@ -1,1 +1,1 @@
-web gunicorn Melanoma.wsgi 
+web: waitress-serve --listen=*:$PORT Melanoma.wsgi:application 
