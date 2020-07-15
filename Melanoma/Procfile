@@ -1,1 +1,1 @@
-web: waitress-serve --listen=*:8000 Melanoma.wsgi:application 
+web: waitress-serve --listen=*:$PORT Melanoma.wsgi:application 
