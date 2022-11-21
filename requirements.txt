@@ -1,6 +1,6 @@
 scikit_image==0.16.2
 Django==3.0.6
-tensorflow-cpu==2.2.0
+tensorflow-cpu==2.8.4
 django_heroku==0.3.1
 Keras==2.4.3
 pandas==1.0.5
